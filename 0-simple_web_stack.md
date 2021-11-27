@@ -1,6 +1,8 @@
 # Simple Web Stack
 
-![Image of a simple web stack](0-simple_web_stack.png)
+![Image of a simple web stack](0-simple_web_stack.jpg)
+
+https://miro.com/app/board/uXjVOfJwct0=/
 
 ## Description
 
@@ -34,7 +36,7 @@
 
 ### What The Server Uses To Communicate With The Client
 
- client: computer of the user requesting the website
+> _client_: computer of the user requesting the website.
 
 //
 
