@@ -12,6 +12,10 @@ Insert_here
 
 + The distribution algorithm the load balancer is configured with and how it works.<br/>The HAProxy load balancer is configured with ...
 
++ How a database Primary-Replica (Master-Slave) cluster works.<br/>
+
++ the difference between the Primary node and the Replica node in regard to the application.<br/>
+
 ## Issues With This Infrastructure
 
 + SPOF.
